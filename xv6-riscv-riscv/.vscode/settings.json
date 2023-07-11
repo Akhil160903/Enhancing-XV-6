@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "__mutex_base": "c",
+        "locale": "c",
+        "string": "c"
+    }
+}
